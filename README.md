@@ -1,4 +1,4 @@
-## Rust Practice Problems: ecently-bought-product
+## Rust Practice Problems: recently-bought-product
 
 Hashmap + DLL
 
